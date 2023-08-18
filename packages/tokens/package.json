@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@kayque-ignite-ui/tokens",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -13,9 +13,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
+    "@kayque-ignite-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6",
-    "@ignite-ui/eslint-config": "*"
+    "@kayque-ignite-ui/eslint-config": "*"
   }
 }

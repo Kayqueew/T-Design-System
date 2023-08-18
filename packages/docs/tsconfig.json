@@ -1,4 +1,7 @@
 {
-  "extends": "@ignite-ui/ts-config/react.json",
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "extends": "@kayque-ignite-ui/ts-config/react.json",
   "include": ["src"]
 }

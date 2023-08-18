@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@kayque-ignite-ui/tokens'
 
 export const {
   styled,
