@@ -9,3 +9,5 @@ export * from './components/TextInput'
 export * from './components/TextArea'
 export * from './components/Checkbox'
 export * from './components/MultiStep'
+
+export * from './styles' // quem expotar o design-system vai ter acesso a todas as variaveis

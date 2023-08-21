@@ -19,8 +19,8 @@ export const CheckboxContainer = styled(Checkbox.Root, {
     backgroundColor: '$ignite300', // quando o checkbox estiver selecionado vai ficar com background verder, isso funcionar só no radix pq tem essa possibilidade
   },
 
-  '&:focus': {
-    border: '2px solid &ignite300',
+  '&:focus, &[data-state="checked"]': {
+    border: '2px solid &ignite300', // quando estiver com focus ou com checkbox marcado
   },
 })
 
