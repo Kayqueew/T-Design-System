@@ -1,5 +1,11 @@
 # @kayque-ignite-ui/react
 
+## 2.3.0
+
+### Minor Changes
+
+- 706638c: corrigindo erro no deploy
+
 ## 2.2.0
 
 ### Minor Changes
