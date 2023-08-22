@@ -1,7 +1,8 @@
 {
-  "compilerOptions": {
-    "jsx": "react"
-  },
+ /*  "compilerOptions": {
+    "jsx": "react-jsx"
+    
+  }, */
   "extends": "@kayque-ignite-ui/ts-config/react.json",
   "include": ["src"]
 }
